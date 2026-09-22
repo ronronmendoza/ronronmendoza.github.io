@@ -1,0 +1,1 @@
+const menu=document.getElementById('menu'),side=document.getElementById('sidebar');menu.addEventListener('click',()=>side.classList.toggle('open'));document.querySelectorAll('.sidebar nav a').forEach(a=>a.addEventListener('click',()=>side.classList.remove('open')));
