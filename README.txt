@@ -22,5 +22,4 @@ Main files:
 - script.js
 - EA_Calendar_Management_Portfolio.xlsx
 
-
 Open index.html in VS Code/Chrome to preview.
