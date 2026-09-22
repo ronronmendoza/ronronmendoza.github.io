@@ -21,5 +21,8 @@ Main files:
 - style.css
 - script.js
 - EA_Calendar_Management_Portfolio.xlsx
+images/
+    ron-ron-logo.png
+    profile.png
 
 Open index.html in VS Code/Chrome to preview.
