@@ -7,8 +7,8 @@ Design direction:
 - Responsive desktop/tablet/mobile layout.
 
 Brand assets:
-- images/ron-ron-logo.png
-- images/profile.png
+ron-ron-logo.png
+profile.png
 
 Contact information:
 - Email: ronron_mendoza12@yahoo.com
