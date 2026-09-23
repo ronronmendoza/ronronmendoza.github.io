@@ -1,25 +1,17 @@
-Premium luxury EA portfolio for Ron-Ron Mendoza.
+RON-RON MENDOZA — EXECUTIVE PORTFOLIO PRO v4
 
-Design direction:
-- Black / charcoal / champagne-gold / ivory palette aligned with the RM logo.
-- Editorial luxury typography with Cormorant Garamond + DM Sans.
-- Refined borders, restrained gold accents, dark executive sections, subtle texture and premium hover states.
-- Responsive desktop/tablet/mobile layout.
+Open index.html in a modern browser.
 
-Brand assets:
-- images/ron-ron-logo.png
-- images/profile.png
+This version includes:
+- Luxury black / champagne-gold executive portfolio design
+- Professional profile photo
+- Updated executive-operations positioning and core competencies
+- Career experience timeline based on the current resume source
+- Seven supplied sample reels / videos with poster thumbnails and native browser playback
+- Updated 3-page professional resume PDF
+- Executive Operations Portfolio PDF
+- Calendar Management Portfolio workbook
+- Travel Booking Portfolio workbook
 
-Contact information:
-- Email: ronron_mendoza12@yahoo.com
-- Phone: +63 909 068 4238
-- Location: Sitio Toto, Cupang Proper, Balanga City, Bataan 2100, Philippines
-- LinkedIn: https://www.linkedin.com/in/ron-ron-mendoza-536365120
-
-Main files:
-- index.html
-- style.css
-- script.js
-- EA_Calendar_Management_Portfolio.xlsx
-
-Open index.html in VS Code/Chrome to preview.
+Video files are stored in assets/videos/.
+Poster images are stored in assets/video-posters/.
